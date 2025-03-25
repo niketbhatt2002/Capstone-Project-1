@@ -6,4 +6,32 @@
         "department": "SWE-1",
         "salary": 91000.0
     }
+    {
+        "id": 2,
+        "name": "Harshit Joshi",
+        "age": 22,
+        "department": "AI/ML Scientist-1",
+        "salary": 98000.0
+    }
+    {
+        "id": 3,
+        "name": "Neel Bokil",
+        "age": 22,
+        "department": "Data Scientist-1",
+        "salary": 98000.0
+    }
+    {
+        "id": 4,
+        "name": "Krunal Thakar",
+        "age": 23,
+        "department": "Full Stack Developer",
+        "salary": 81000.0
+    }
+    {
+        "id": 5,
+        "name": "Sandeep Kapoor",
+        "age": 23,
+        "department": "Data Analyst",
+        "salary": 77000
+    }
 ]
